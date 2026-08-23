@@ -48,12 +48,12 @@ After running the program, follow the interactive menu:
 * CSV module for data persistence
 
 ## 📁 Project Structure
-
-```text
+```
 python-todo-list/
 ├── todo_list.py          # Main application logic
 ├── Historical data.csv   # Auto-generated CSV (ignored by Git)
 ├── .gitignore            # Git ignore rules
+├── LICENSE               # MIT License
 └── README.md             # Project documentation
 ```
 
